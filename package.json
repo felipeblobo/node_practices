@@ -1,4 +1,22 @@
 {
+  "name": "node_practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeblobo/node_practices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeblobo/node_practices/issues"
+  },
+  "homepage": "https://github.com/felipeblobo/node_practices#readme",
   "dependencies": {
     "query-string": "^7.0.1"
   }
