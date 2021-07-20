@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/felipeblobo/node_practices#readme",
   "dependencies": {
+    "nodemon": "^2.0.12",
     "query-string": "^7.0.1"
   }
 }
